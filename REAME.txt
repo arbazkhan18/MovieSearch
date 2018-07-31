@@ -1,0 +1,28 @@
+index.html
+
+1.navbar and a brand using bootstrap 
+
+2.using cards 2 forms to accept the user the input
+
+3. done css 
+
+script.js
+
+1.after generating the api, access the database
+
+2.success,
+	   * the store the data into a var movie
+           * run a for in loop through the data and print it using cards
+
+3.if year is not matched alert error
+
+4.searching through the imdb id in which the card is modified to display extra information about the particular movies.
+
+
+
+github links:
+
+
+repo link: https://github.com/arbazkhan18/MovieSearch/
+
+live page: https://arbazkhan18.github.io/MovieSearch/

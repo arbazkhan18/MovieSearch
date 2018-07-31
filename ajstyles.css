@@ -1,0 +1,59 @@
+body{
+    font-family:  sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("images/spider.jpg");
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+    background-attachment: fixed;
+
+}
+
+
+.paragraph1, h1, h5{
+  font-family: 'Satisfy', cursive;
+  color:black;
+  text-align: center;
+  font-weight: bolder;
+  
+}
+
+.paragraph2{
+  color:whitesmoke;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+  
+}
+
+.navbar-brand{
+  position: relative;
+  left: 50%;
+  margin-left: -50px !important;  
+  display: block;
+}
+
+
+
+.special-card {
+  
+      background-color: rgba(245, 245, 245, 1);
+      opacity: .6;  /* to make it transperant */
+
+    }
+
+
+
+#search1,#clear1,#search2,#clear2{
+  background-color: #884EA0;
+  color: white;
+  font-weight: bold;
+}
+
+.card{
+  -webkit-box-shadow: 0px 5px 22px 3px rgba(0,0,0,0.77);
+  box-shadow: 0px 5px 22px 3px rgba(0,0,0,0.77);;
+  border: none !important;
+  
+
+}
